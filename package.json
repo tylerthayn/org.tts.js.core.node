@@ -1,0 +1,23 @@
+{
+  "name": "@tyler.thayn/js.node.core",
+  "version": "0.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "grunt install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerthayn/org.tts.js.core.node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylerthayn/org.tts.js.core.node/issues"
+  },
+  "homepage": "https://github.com/tylerthayn/org.tts.js.core.node#readme",
+  "dependencies": {
+    "@tyler.thayn/js.core": "0.0.13",
+    "find-node-modules": "^2.1.2"
+  }
+}
